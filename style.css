@@ -105,3 +105,10 @@ section::after{
   width:  80%;
   background: linear-gradient(90deg,#9c28af,#fd2c72);
 }
+#footer{
+  color: white;
+}
+
+#footer:hover{
+  color: black;
+}
